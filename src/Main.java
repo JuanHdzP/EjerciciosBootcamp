@@ -22,7 +22,6 @@ public class Main {
 //Clase segunda parte
 class Coche{
     public int puerta = 0;
-    public Coche(){}
     public void IncrementarPuerta(){
         this.puerta++;
     }
